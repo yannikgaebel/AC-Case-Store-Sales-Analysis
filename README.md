@@ -1,6 +1,7 @@
 # AC-Case-Store-Sales-Analysis
 
-![wucher](https://github.com/yannikgaebel/AC-Case-Store-Sales-Analysis/assets/58168717/908b13c3-00f0-477c-a5d4-162381b957ce)
+![wucher](https://github.com/yannikgaebel/AC-Case-Store-Sales-Analysis/assets/58168717/d5263e61-1d82-49a2-b0e0-379f0cf53e78)
+
 
 **Situation**
 
